@@ -35,6 +35,3 @@ The dataset contains information such as age, sex, BMI, number of children, smok
 ## Objective
 To analyze medical insurance data, understand the factors influencing insurance charges, and predict costs using Machine Learning.
 
----
-
-*Developed as a Machine Learning project.*
